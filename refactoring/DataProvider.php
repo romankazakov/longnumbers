@@ -1,7 +1,8 @@
 <?php
 namespace Integration;
+use \Integration\DataProviderInterface;
 
-class DataProvider
+class DataProvider implements DataProviderInterface
 {
     private $host;
     private $user;
