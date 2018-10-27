@@ -1,0 +1,14 @@
+{
+    "name": "administrator/long-number",
+    "type": "library",
+    "require": {
+        "phpunit/phpunit": "^5.0"
+    },
+    "authors": [
+        {
+            "name": "Roman Kazakov",
+            "email": "romanya@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
